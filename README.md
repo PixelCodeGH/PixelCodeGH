@@ -19,7 +19,7 @@ I engage in learning new tools, techniques, and best practices to improve my cra
 🌍 Fun fact:
 When I am not coding, I probably think about the next project I want to develop.
 
-Check out my repositories and reach out; let's build something great together. 🚀 
+Check out my repositories
 
 <P align="left">
     <a href="https://github.com/PixelCodeGH?tab=repositories" target="_blank">
