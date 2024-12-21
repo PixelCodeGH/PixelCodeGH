@@ -22,17 +22,13 @@ When I am not coding, I probably think about the next project I want to develop.
 Check out my repositories and reach out; let's build something great together. 🚀 
 
 <P align="left">
-    <a href="https://github.com/PixelCode-dev?tab=repositories" target="_blank">
+    <a href="https://github.com/PixelCodeGH?tab=repositories" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo" alt="Repo">
     </a>
     <a href="mailto:pixelcsac@gmail.coms" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" alt="Mail">
     </a>
-    <a href="https://www.linkedin.com/in/pixelcode-dev/" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star" alt="GitHub Follow">
-    </a>
 </P>
----
 
 ### 🧰 Languages and Tools
 
