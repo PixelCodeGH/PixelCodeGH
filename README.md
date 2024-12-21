@@ -2,7 +2,7 @@
 
 **`Junior Web Dev`**
 
-I’m a web developer from Poland, and I like to spend my days and nights working in my room turning ideas into websites I’m genuinely proud of.
+I’m a web developer from India, and I like to spend my days and nights working in my room turning ideas into websites I’m genuinely proud of.
 
 💻 What I do:
 
