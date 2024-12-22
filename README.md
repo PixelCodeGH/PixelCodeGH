@@ -1,47 +1,18 @@
-# ▫PixelCode▫
+# 💫 About Me:
+Hi I’m a web developer from India<br>I like to spend my days and nights working in my room <br>turning ideas into websites I’m genuinely proud of
 
-**`Junior Web Dev`**
 
-I’m a web developer from India, and I like to spend my days and nights working in my room turning ideas into websites I’m genuinely proud of.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/susixon) 
 
-💻 What I do:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PixelCodeGH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PixelCodeGH&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelCodeGH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-    Design and develop beautiful and responsive websites.
-    Try out new web technologies and frameworks.
-    Keep learning and honing my skills in order to stay in front of fast-paced web development.
+---
+[![](https://visitcount.itsvg.in/api?id=PixelCodeGH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🎯 What motivates me:
-For me, coding is not work; it's sheer fun! I enjoy the experience of building something from scratch, solving problems here and there, and then actually broadcasting the idea on the screen.
-
-📚 What I’m learning:
-I engage in learning new tools, techniques, and best practices to improve my craft.
-
-🌍 Fun fact:
-When I am not coding, I probably think about the next project I want to develop.
-
-Check out my repositories
-
-<P align="left">
-    <a href="https://github.com/PixelCodeGH?tab=repositories" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo" alt="Repo">
-    </a>
-    <a href="mailto:pixelcsac@gmail.coms" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" alt="Mail">
-    </a>
-</P>
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelCodeGH&show_icons=true&theme=gruvbox)
-
-#
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
